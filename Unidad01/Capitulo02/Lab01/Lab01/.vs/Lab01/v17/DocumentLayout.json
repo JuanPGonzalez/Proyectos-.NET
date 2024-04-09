@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\Documents\\Proyectos .NET\\Unidad01\\Capitulo02\\Lab01\\Lab01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8BA1680-41B1-49C8-A1C6-225AB37A2E67}|Consola\\Consola.csproj|c:\\users\\pc\\documents\\proyectos .net\\unidad01\\capitulo02\\lab01\\lab01\\consola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8BA1680-41B1-49C8-A1C6-225AB37A2E67}|Consola\\Consola.csproj|solutionrelative:consola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\Proyectos .NET\\Unidad01\\Capitulo02\\Lab01\\Lab01\\Consola\\Program.cs",
+              "RelativeDocumentMoniker": "Consola\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\Documents\\Proyectos .NET\\Unidad01\\Capitulo02\\Lab01\\Lab01\\Consola\\Program.cs",
+              "RelativeToolTip": "Consola\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T20:26:46.295Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
