@@ -1,0 +1,15 @@
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01\Desicion\bin\Debug\net8.0\Desicion.exe
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01\Desicion\bin\Debug\net8.0\Desicion.deps.json
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01\Desicion\bin\Debug\net8.0\Desicion.runtimeconfig.json
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01\Desicion\bin\Debug\net8.0\Desicion.dll
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01\Desicion\bin\Debug\net8.0\Desicion.pdb
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01\Desicion\obj\Debug\net8.0\Desicion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01\Desicion\obj\Debug\net8.0\Desicion.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01\Desicion\obj\Debug\net8.0\Desicion.AssemblyInfo.cs
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01\Desicion\obj\Debug\net8.0\Desicion.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01\Desicion\obj\Debug\net8.0\Desicion.sourcelink.json
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01\Desicion\obj\Debug\net8.0\Desicion.dll
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01\Desicion\obj\Debug\net8.0\refint\Desicion.dll
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01\Desicion\obj\Debug\net8.0\Desicion.pdb
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01\Desicion\obj\Debug\net8.0\Desicion.genruntimeconfig.cache
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01\Desicion\obj\Debug\net8.0\ref\Desicion.dll

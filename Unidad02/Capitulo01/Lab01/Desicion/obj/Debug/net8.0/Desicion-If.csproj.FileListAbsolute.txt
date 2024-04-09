@@ -1,0 +1,15 @@
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01\Desicion\bin\Debug\net8.0\Desicion-If.exe
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01\Desicion\bin\Debug\net8.0\Desicion-If.deps.json
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01\Desicion\bin\Debug\net8.0\Desicion-If.runtimeconfig.json
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01\Desicion\bin\Debug\net8.0\Desicion-If.dll
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01\Desicion\bin\Debug\net8.0\Desicion-If.pdb
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01\Desicion\obj\Debug\net8.0\Desicion-If.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01\Desicion\obj\Debug\net8.0\Desicion-If.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01\Desicion\obj\Debug\net8.0\Desicion-If.AssemblyInfo.cs
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01\Desicion\obj\Debug\net8.0\Desicion-If.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01\Desicion\obj\Debug\net8.0\Desicion-If.sourcelink.json
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01\Desicion\obj\Debug\net8.0\Desicion-If.dll
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01\Desicion\obj\Debug\net8.0\refint\Desicion-If.dll
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01\Desicion\obj\Debug\net8.0\Desicion-If.pdb
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01\Desicion\obj\Debug\net8.0\Desicion-If.genruntimeconfig.cache
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01\Desicion\obj\Debug\net8.0\ref\Desicion-If.dll

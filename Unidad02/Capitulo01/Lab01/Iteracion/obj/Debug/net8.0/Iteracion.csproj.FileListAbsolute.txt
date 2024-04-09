@@ -1,0 +1,15 @@
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01\Iteracion\bin\Debug\net8.0\Iteracion.exe
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01\Iteracion\bin\Debug\net8.0\Iteracion.deps.json
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01\Iteracion\bin\Debug\net8.0\Iteracion.runtimeconfig.json
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01\Iteracion\bin\Debug\net8.0\Iteracion.dll
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01\Iteracion\bin\Debug\net8.0\Iteracion.pdb
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01\Iteracion\obj\Debug\net8.0\Iteracion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01\Iteracion\obj\Debug\net8.0\Iteracion.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01\Iteracion\obj\Debug\net8.0\Iteracion.AssemblyInfo.cs
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01\Iteracion\obj\Debug\net8.0\Iteracion.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01\Iteracion\obj\Debug\net8.0\Iteracion.sourcelink.json
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01\Iteracion\obj\Debug\net8.0\Iteracion.dll
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01\Iteracion\obj\Debug\net8.0\refint\Iteracion.dll
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01\Iteracion\obj\Debug\net8.0\Iteracion.pdb
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01\Iteracion\obj\Debug\net8.0\Iteracion.genruntimeconfig.cache
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01\Iteracion\obj\Debug\net8.0\ref\Iteracion.dll
