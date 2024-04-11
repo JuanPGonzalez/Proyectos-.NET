@@ -1,0 +1,15 @@
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01.ParaPensar\Numeros Primos gemelos\bin\Debug\net8.0\Numeros Primos gemelos.exe
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01.ParaPensar\Numeros Primos gemelos\bin\Debug\net8.0\Numeros Primos gemelos.deps.json
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01.ParaPensar\Numeros Primos gemelos\bin\Debug\net8.0\Numeros Primos gemelos.runtimeconfig.json
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01.ParaPensar\Numeros Primos gemelos\bin\Debug\net8.0\Numeros Primos gemelos.dll
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01.ParaPensar\Numeros Primos gemelos\bin\Debug\net8.0\Numeros Primos gemelos.pdb
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01.ParaPensar\Numeros Primos gemelos\obj\Debug\net8.0\Numeros Primos gemelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01.ParaPensar\Numeros Primos gemelos\obj\Debug\net8.0\Numeros Primos gemelos.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01.ParaPensar\Numeros Primos gemelos\obj\Debug\net8.0\Numeros Primos gemelos.AssemblyInfo.cs
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01.ParaPensar\Numeros Primos gemelos\obj\Debug\net8.0\Numeros Primos gemelos.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01.ParaPensar\Numeros Primos gemelos\obj\Debug\net8.0\Numeros Primos gemelos.sourcelink.json
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01.ParaPensar\Numeros Primos gemelos\obj\Debug\net8.0\Numeros Primos gemelos.dll
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01.ParaPensar\Numeros Primos gemelos\obj\Debug\net8.0\refint\Numeros Primos gemelos.dll
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01.ParaPensar\Numeros Primos gemelos\obj\Debug\net8.0\Numeros Primos gemelos.pdb
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01.ParaPensar\Numeros Primos gemelos\obj\Debug\net8.0\Numeros Primos gemelos.genruntimeconfig.cache
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01.ParaPensar\Numeros Primos gemelos\obj\Debug\net8.0\ref\Numeros Primos gemelos.dll

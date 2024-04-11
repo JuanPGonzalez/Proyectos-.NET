@@ -1,0 +1,15 @@
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01.ParaPensar\Diagrama de Fujo\obj\Debug\net8.0\Diagrama de Fujo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01.ParaPensar\Diagrama de Fujo\obj\Debug\net8.0\Diagrama de Fujo.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01.ParaPensar\Diagrama de Fujo\obj\Debug\net8.0\Diagrama de Fujo.AssemblyInfo.cs
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01.ParaPensar\Diagrama de Fujo\obj\Debug\net8.0\Diagrama de Fujo.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01.ParaPensar\Diagrama de Fujo\obj\Debug\net8.0\Diagrama de Fujo.sourcelink.json
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01.ParaPensar\Diagrama de Fujo\bin\Debug\net8.0\Diagrama de Fujo.exe
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01.ParaPensar\Diagrama de Fujo\bin\Debug\net8.0\Diagrama de Fujo.deps.json
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01.ParaPensar\Diagrama de Fujo\bin\Debug\net8.0\Diagrama de Fujo.runtimeconfig.json
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01.ParaPensar\Diagrama de Fujo\bin\Debug\net8.0\Diagrama de Fujo.dll
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01.ParaPensar\Diagrama de Fujo\bin\Debug\net8.0\Diagrama de Fujo.pdb
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01.ParaPensar\Diagrama de Fujo\obj\Debug\net8.0\Diagrama de Fujo.dll
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01.ParaPensar\Diagrama de Fujo\obj\Debug\net8.0\refint\Diagrama de Fujo.dll
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01.ParaPensar\Diagrama de Fujo\obj\Debug\net8.0\Diagrama de Fujo.pdb
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01.ParaPensar\Diagrama de Fujo\obj\Debug\net8.0\Diagrama de Fujo.genruntimeconfig.cache
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01.ParaPensar\Diagrama de Fujo\obj\Debug\net8.0\ref\Diagrama de Fujo.dll

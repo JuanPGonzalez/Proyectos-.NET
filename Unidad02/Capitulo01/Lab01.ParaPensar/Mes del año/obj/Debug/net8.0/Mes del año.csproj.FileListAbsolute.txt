@@ -1,0 +1,15 @@
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01.ParaPensar\Mes del año\bin\Debug\net8.0\Mes del año.exe
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01.ParaPensar\Mes del año\bin\Debug\net8.0\Mes del año.deps.json
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01.ParaPensar\Mes del año\bin\Debug\net8.0\Mes del año.runtimeconfig.json
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01.ParaPensar\Mes del año\bin\Debug\net8.0\Mes del año.dll
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01.ParaPensar\Mes del año\bin\Debug\net8.0\Mes del año.pdb
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01.ParaPensar\Mes del año\obj\Debug\net8.0\Mes del año.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01.ParaPensar\Mes del año\obj\Debug\net8.0\Mes del año.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01.ParaPensar\Mes del año\obj\Debug\net8.0\Mes del año.AssemblyInfo.cs
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01.ParaPensar\Mes del año\obj\Debug\net8.0\Mes del año.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01.ParaPensar\Mes del año\obj\Debug\net8.0\Mes del año.sourcelink.json
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01.ParaPensar\Mes del año\obj\Debug\net8.0\Mes del año.dll
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01.ParaPensar\Mes del año\obj\Debug\net8.0\refint\Mes del año.dll
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01.ParaPensar\Mes del año\obj\Debug\net8.0\Mes del año.pdb
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01.ParaPensar\Mes del año\obj\Debug\net8.0\Mes del año.genruntimeconfig.cache
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01.ParaPensar\Mes del año\obj\Debug\net8.0\ref\Mes del año.dll

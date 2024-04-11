@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Desicion-If")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+45cc54afe5960faeed04e635426ba956640f950e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+774d9d5d6969ca1f864f31ebd080baf9513dbfed")]
 [assembly: System.Reflection.AssemblyProductAttribute("Desicion-If")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Desicion-If")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

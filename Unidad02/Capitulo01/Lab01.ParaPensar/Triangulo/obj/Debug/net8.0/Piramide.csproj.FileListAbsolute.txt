@@ -1,0 +1,15 @@
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01.ParaPensar\Triangulo\bin\Debug\net8.0\Piramide.exe
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01.ParaPensar\Triangulo\bin\Debug\net8.0\Piramide.deps.json
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01.ParaPensar\Triangulo\bin\Debug\net8.0\Piramide.runtimeconfig.json
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01.ParaPensar\Triangulo\bin\Debug\net8.0\Piramide.dll
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01.ParaPensar\Triangulo\bin\Debug\net8.0\Piramide.pdb
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01.ParaPensar\Triangulo\obj\Debug\net8.0\Piramide.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01.ParaPensar\Triangulo\obj\Debug\net8.0\Piramide.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01.ParaPensar\Triangulo\obj\Debug\net8.0\Piramide.AssemblyInfo.cs
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01.ParaPensar\Triangulo\obj\Debug\net8.0\Piramide.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01.ParaPensar\Triangulo\obj\Debug\net8.0\Piramide.sourcelink.json
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01.ParaPensar\Triangulo\obj\Debug\net8.0\Piramide.dll
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01.ParaPensar\Triangulo\obj\Debug\net8.0\refint\Piramide.dll
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01.ParaPensar\Triangulo\obj\Debug\net8.0\Piramide.pdb
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01.ParaPensar\Triangulo\obj\Debug\net8.0\Piramide.genruntimeconfig.cache
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01.ParaPensar\Triangulo\obj\Debug\net8.0\ref\Piramide.dll

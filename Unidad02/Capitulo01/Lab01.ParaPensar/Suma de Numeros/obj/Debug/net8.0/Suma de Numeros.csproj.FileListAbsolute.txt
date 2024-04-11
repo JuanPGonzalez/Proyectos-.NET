@@ -1,0 +1,15 @@
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01.ParaPensar\Suma de Numeros\obj\Debug\net8.0\Suma de Numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01.ParaPensar\Suma de Numeros\obj\Debug\net8.0\Suma de Numeros.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01.ParaPensar\Suma de Numeros\obj\Debug\net8.0\Suma de Numeros.AssemblyInfo.cs
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01.ParaPensar\Suma de Numeros\obj\Debug\net8.0\Suma de Numeros.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01.ParaPensar\Suma de Numeros\obj\Debug\net8.0\Suma de Numeros.sourcelink.json
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01.ParaPensar\Suma de Numeros\bin\Debug\net8.0\Suma de Numeros.exe
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01.ParaPensar\Suma de Numeros\bin\Debug\net8.0\Suma de Numeros.deps.json
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01.ParaPensar\Suma de Numeros\bin\Debug\net8.0\Suma de Numeros.runtimeconfig.json
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01.ParaPensar\Suma de Numeros\bin\Debug\net8.0\Suma de Numeros.dll
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01.ParaPensar\Suma de Numeros\bin\Debug\net8.0\Suma de Numeros.pdb
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01.ParaPensar\Suma de Numeros\obj\Debug\net8.0\Suma de Numeros.dll
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01.ParaPensar\Suma de Numeros\obj\Debug\net8.0\refint\Suma de Numeros.dll
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01.ParaPensar\Suma de Numeros\obj\Debug\net8.0\Suma de Numeros.pdb
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01.ParaPensar\Suma de Numeros\obj\Debug\net8.0\Suma de Numeros.genruntimeconfig.cache
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo01\Lab01.ParaPensar\Suma de Numeros\obj\Debug\net8.0\ref\Suma de Numeros.dll
