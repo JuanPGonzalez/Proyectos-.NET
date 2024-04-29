@@ -2,19 +2,19 @@
 
 int n = 1;
 
-int[] arrelgo=  new int[100];
+int[] arreglo=  new int[100];
 
 for (int i = 0; i < 100; i++)
 {
-    arrelgo[i] = n;
+    arreglo[i] = n;
     n = n + 1;
 }
 
 for  (int i = 0;i < 100; i++)
 { 
-    if (arrelgo[i] % 2 == 0)
+    if (arreglo[i] % 2 == 0)
     {
-        Console.WriteLine(arrelgo[i]);
+        Console.WriteLine(arreglo[i]);
     }
 
 }
