@@ -1,0 +1,15 @@
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo02\Adivine_el_numero_ayuda\obj\Debug\net8.0\Adivine_el_numero_ayuda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo02\Adivine_el_numero_ayuda\obj\Debug\net8.0\Adivine_el_numero_ayuda.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo02\Adivine_el_numero_ayuda\obj\Debug\net8.0\Adivine_el_numero_ayuda.AssemblyInfo.cs
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo02\Adivine_el_numero_ayuda\obj\Debug\net8.0\Adivine_el_numero_ayuda.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo02\Adivine_el_numero_ayuda\obj\Debug\net8.0\Adivine_el_numero_ayuda.sourcelink.json
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo02\Adivine_el_numero_ayuda\bin\Debug\net8.0\Adivine_el_numero_ayuda.exe
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo02\Adivine_el_numero_ayuda\bin\Debug\net8.0\Adivine_el_numero_ayuda.deps.json
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo02\Adivine_el_numero_ayuda\bin\Debug\net8.0\Adivine_el_numero_ayuda.runtimeconfig.json
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo02\Adivine_el_numero_ayuda\bin\Debug\net8.0\Adivine_el_numero_ayuda.dll
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo02\Adivine_el_numero_ayuda\bin\Debug\net8.0\Adivine_el_numero_ayuda.pdb
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo02\Adivine_el_numero_ayuda\obj\Debug\net8.0\Adivine_el_numero_ayuda.dll
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo02\Adivine_el_numero_ayuda\obj\Debug\net8.0\refint\Adivine_el_numero_ayuda.dll
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo02\Adivine_el_numero_ayuda\obj\Debug\net8.0\Adivine_el_numero_ayuda.pdb
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo02\Adivine_el_numero_ayuda\obj\Debug\net8.0\Adivine_el_numero_ayuda.genruntimeconfig.cache
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo02\Adivine_el_numero_ayuda\obj\Debug\net8.0\ref\Adivine_el_numero_ayuda.dll

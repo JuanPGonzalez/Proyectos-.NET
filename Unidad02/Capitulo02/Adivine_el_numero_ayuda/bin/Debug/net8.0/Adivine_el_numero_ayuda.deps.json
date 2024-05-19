@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Adivine_el_numero_ayuda/1.0.0": {
+        "runtime": {
+          "Adivine_el_numero_ayuda.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Adivine_el_numero_ayuda/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

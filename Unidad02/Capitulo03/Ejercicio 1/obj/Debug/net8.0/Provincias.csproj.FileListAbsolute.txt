@@ -1,0 +1,15 @@
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo03\Lab1\bin\Debug\net8.0\Provincias.exe
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo03\Lab1\bin\Debug\net8.0\Provincias.deps.json
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo03\Lab1\bin\Debug\net8.0\Provincias.runtimeconfig.json
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo03\Lab1\bin\Debug\net8.0\Provincias.dll
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo03\Lab1\bin\Debug\net8.0\Provincias.pdb
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo03\Lab1\obj\Debug\net8.0\Provincias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo03\Lab1\obj\Debug\net8.0\Provincias.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo03\Lab1\obj\Debug\net8.0\Provincias.AssemblyInfo.cs
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo03\Lab1\obj\Debug\net8.0\Provincias.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo03\Lab1\obj\Debug\net8.0\Provincias.sourcelink.json
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo03\Lab1\obj\Debug\net8.0\Provincias.dll
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo03\Lab1\obj\Debug\net8.0\refint\Provincias.dll
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo03\Lab1\obj\Debug\net8.0\Provincias.pdb
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo03\Lab1\obj\Debug\net8.0\Provincias.genruntimeconfig.cache
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo03\Lab1\obj\Debug\net8.0\ref\Provincias.dll

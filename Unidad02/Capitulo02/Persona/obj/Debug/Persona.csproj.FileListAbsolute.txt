@@ -1,0 +1,7 @@
+E:\.NET\Persona\bin\Debug\Persona.exe.config
+E:\.NET\Persona\bin\Debug\Persona.exe
+E:\.NET\Persona\bin\Debug\Persona.pdb
+E:\.NET\Persona\obj\Debug\Persona.csproj.AssemblyReference.cache
+E:\.NET\Persona\obj\Debug\Persona.csproj.CoreCompileInputs.cache
+E:\.NET\Persona\obj\Debug\Persona.exe
+E:\.NET\Persona\obj\Debug\Persona.pdb

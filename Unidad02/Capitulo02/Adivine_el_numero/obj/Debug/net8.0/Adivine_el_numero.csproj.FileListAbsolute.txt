@@ -1,0 +1,15 @@
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo02\Adivine_el_numero\obj\Debug\net8.0\Adivine_el_numero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo02\Adivine_el_numero\obj\Debug\net8.0\Adivine_el_numero.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo02\Adivine_el_numero\obj\Debug\net8.0\Adivine_el_numero.AssemblyInfo.cs
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo02\Adivine_el_numero\obj\Debug\net8.0\Adivine_el_numero.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo02\Adivine_el_numero\obj\Debug\net8.0\Adivine_el_numero.sourcelink.json
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo02\Adivine_el_numero\bin\Debug\net8.0\Adivine_el_numero.exe
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo02\Adivine_el_numero\bin\Debug\net8.0\Adivine_el_numero.deps.json
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo02\Adivine_el_numero\bin\Debug\net8.0\Adivine_el_numero.runtimeconfig.json
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo02\Adivine_el_numero\bin\Debug\net8.0\Adivine_el_numero.dll
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo02\Adivine_el_numero\bin\Debug\net8.0\Adivine_el_numero.pdb
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo02\Adivine_el_numero\obj\Debug\net8.0\Adivine_el_numero.dll
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo02\Adivine_el_numero\obj\Debug\net8.0\refint\Adivine_el_numero.dll
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo02\Adivine_el_numero\obj\Debug\net8.0\Adivine_el_numero.pdb
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo02\Adivine_el_numero\obj\Debug\net8.0\Adivine_el_numero.genruntimeconfig.cache
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo02\Adivine_el_numero\obj\Debug\net8.0\ref\Adivine_el_numero.dll

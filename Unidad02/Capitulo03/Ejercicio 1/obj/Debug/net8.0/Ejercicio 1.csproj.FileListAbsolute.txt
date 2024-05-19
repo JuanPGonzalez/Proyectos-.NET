@@ -1,0 +1,15 @@
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo03\Lab1\bin\Debug\net8.0\Ejercicio 1.exe
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo03\Lab1\bin\Debug\net8.0\Ejercicio 1.deps.json
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo03\Lab1\bin\Debug\net8.0\Ejercicio 1.runtimeconfig.json
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo03\Lab1\bin\Debug\net8.0\Ejercicio 1.dll
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo03\Lab1\bin\Debug\net8.0\Ejercicio 1.pdb
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo03\Lab1\obj\Debug\net8.0\Ejercicio 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo03\Lab1\obj\Debug\net8.0\Ejercicio 1.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo03\Lab1\obj\Debug\net8.0\Ejercicio 1.AssemblyInfo.cs
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo03\Lab1\obj\Debug\net8.0\Ejercicio 1.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo03\Lab1\obj\Debug\net8.0\Ejercicio 1.sourcelink.json
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo03\Lab1\obj\Debug\net8.0\Ejercicio 1.dll
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo03\Lab1\obj\Debug\net8.0\refint\Ejercicio 1.dll
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo03\Lab1\obj\Debug\net8.0\Ejercicio 1.pdb
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo03\Lab1\obj\Debug\net8.0\Ejercicio 1.genruntimeconfig.cache
+C:\Users\pc\Documents\Proyectos .NET\Unidad02\Capitulo03\Lab1\obj\Debug\net8.0\ref\Ejercicio 1.dll
