@@ -1,48 +1,39 @@
 ﻿using basededatos;
+using MySqlX.XDevAPI;
 using System.Collections.Generic;
 using System.Linq;
+
 
 namespace Domain.Services
 {
     public class ClienteService
     {
-        private ClienteAdapter clienteAdapter;
-
-        public ClienteService()
+       
+        public List<Cliente> GetAll()
         {
-            clienteAdapter = new ClienteAdapter();
+            return ClienteAdapter.GetAll();
         }
 
-        public IEnumerable<Cliente> GetAll()
+        public Cliente? Get(int id)
         {
-            return clienteAdapter.GetAll();
-        }
-
-        public Cliente Get(int id)
-        {
-            return clienteAdapter.Get(id);
+            return ClienteAdapter.GetOne(id);
         }
 
         public void Add(Cliente cliente)
         {
-            cliente.State = "New";
-            clienteAdapter.Save(cliente);
+            
+            ClienteAdapter.Add(cliente);
         }
 
         public void Update(Cliente cliente)
         {
-            cliente.State = "Modified";
-            clienteAdapter.Save(cliente);
+            
+            ClienteAdapter.Update(cliente);
         }
 
         public void Delete(int id)
         {
-            Cliente cliente = clienteAdapter.Get(id);
-            if (cliente != null)
-            {
-                cliente.State = "Deleted";
-                clienteAdapter.Save(cliente);
-            }
+            ClienteAdapter.Delete(id);
         }
     }
 }
