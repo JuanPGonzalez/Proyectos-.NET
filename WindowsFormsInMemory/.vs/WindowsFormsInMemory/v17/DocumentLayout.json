@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\pc\\Documents\\Proyectos .NET\\WindowsFormsInMemory\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C708C5A5-1C3B-4D7E-A625-8BED5FDA23B6}|Domain\\Domain.csproj|c:\\users\\pc\\documents\\proyectos .net\\windowsformsinmemory\\domain\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C708C5A5-1C3B-4D7E-A625-8BED5FDA23B6}|Domain\\Domain.csproj|solutionrelative:domain\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5B26B78B-46F9-4F14-A1A6-1D1E7A272CBB}|basededatos\\basededatos.csproj|c:\\users\\pc\\documents\\proyectos .net\\windowsformsinmemory\\basededatos\\clienteadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5B26B78B-46F9-4F14-A1A6-1D1E7A272CBB}|basededatos\\basededatos.csproj|solutionrelative:basededatos\\clienteadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C708C5A5-1C3B-4D7E-A625-8BED5FDA23B6}|Domain\\Domain.csproj|c:\\users\\pc\\documents\\proyectos .net\\windowsformsinmemory\\domain\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C708C5A5-1C3B-4D7E-A625-8BED5FDA23B6}|Domain\\Domain.csproj|solutionrelative:domain\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5B26B78B-46F9-4F14-A1A6-1D1E7A272CBB}|basededatos\\basededatos.csproj|c:\\users\\pc\\documents\\proyectos .net\\windowsformsinmemory\\basededatos\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
@@ -38,8 +38,7 @@
               "RelativeToolTip": "WindowsForms\\ClientesLista.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T12:51:46.912Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-22T12:51:46.912Z"
             },
             {
               "$type": "Document",
@@ -51,31 +50,30 @@
               "RelativeToolTip": "basededatos\\Cliente.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T12:45:48.864Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-22T12:45:48.864Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ClienteAdapter.cs",
               "DocumentMoniker": "C:\\Users\\pc\\Documents\\Proyectos .NET\\WindowsFormsInMemory\\basededatos\\ClienteAdapter.cs",
               "RelativeDocumentMoniker": "basededatos\\ClienteAdapter.cs",
               "ToolTip": "C:\\Users\\pc\\Documents\\Proyectos .NET\\WindowsFormsInMemory\\basededatos\\ClienteAdapter.cs",
               "RelativeToolTip": "basededatos\\ClienteAdapter.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAgwAgAAAAKAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowAgAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-17T23:09:14.845Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ClienteService.cs",
               "DocumentMoniker": "C:\\Users\\pc\\Documents\\Proyectos .NET\\WindowsFormsInMemory\\Domain\\Services\\ClienteService.cs",
               "RelativeDocumentMoniker": "Domain\\Services\\ClienteService.cs",
               "ToolTip": "C:\\Users\\pc\\Documents\\Proyectos .NET\\WindowsFormsInMemory\\Domain\\Services\\ClienteService.cs",
               "RelativeToolTip": "Domain\\Services\\ClienteService.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAA1wCoAAAApAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-17T22:56:21.691Z",
               "EditorCaption": ""
