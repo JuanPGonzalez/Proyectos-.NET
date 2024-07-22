@@ -1,5 +1,5 @@
 using Domain.Services;
-using Domain.Model;
+using basededatos;
 
 namespace WindowsForms
 {
