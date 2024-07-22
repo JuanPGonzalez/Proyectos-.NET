@@ -1,0 +1,15 @@
+C:\Users\pc\Documents\Proyectos .NET\WindowsFormsInMemory\basededatos\bin\Debug\net6.0\basededatos.deps.json
+C:\Users\pc\Documents\Proyectos .NET\WindowsFormsInMemory\basededatos\bin\Debug\net6.0\basededatos.runtimeconfig.json
+C:\Users\pc\Documents\Proyectos .NET\WindowsFormsInMemory\basededatos\bin\Debug\net6.0\basededatos.dll
+C:\Users\pc\Documents\Proyectos .NET\WindowsFormsInMemory\basededatos\bin\Debug\net6.0\basededatos.pdb
+C:\Users\pc\Documents\Proyectos .NET\WindowsFormsInMemory\basededatos\obj\Debug\net6.0\basededatos.csproj.AssemblyReference.cache
+C:\Users\pc\Documents\Proyectos .NET\WindowsFormsInMemory\basededatos\obj\Debug\net6.0\basededatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\Proyectos .NET\WindowsFormsInMemory\basededatos\obj\Debug\net6.0\basededatos.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\Proyectos .NET\WindowsFormsInMemory\basededatos\obj\Debug\net6.0\basededatos.AssemblyInfo.cs
+C:\Users\pc\Documents\Proyectos .NET\WindowsFormsInMemory\basededatos\obj\Debug\net6.0\basededatos.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\Proyectos .NET\WindowsFormsInMemory\basededatos\obj\Debug\net6.0\basededatos.sourcelink.json
+C:\Users\pc\Documents\Proyectos .NET\WindowsFormsInMemory\basededatos\obj\Debug\net6.0\basededatos.dll
+C:\Users\pc\Documents\Proyectos .NET\WindowsFormsInMemory\basededatos\obj\Debug\net6.0\refint\basededatos.dll
+C:\Users\pc\Documents\Proyectos .NET\WindowsFormsInMemory\basededatos\obj\Debug\net6.0\basededatos.pdb
+C:\Users\pc\Documents\Proyectos .NET\WindowsFormsInMemory\basededatos\obj\Debug\net6.0\basededatos.genruntimeconfig.cache
+C:\Users\pc\Documents\Proyectos .NET\WindowsFormsInMemory\basededatos\obj\Debug\net6.0\ref\basededatos.dll
