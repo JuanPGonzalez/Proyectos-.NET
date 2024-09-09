@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\Documents\\Proyectos .NET\\TPI-Steam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28D3C244-00B9-4A8C-8803-66143A474A62}|Domain\\Domain.csproj|c:\\users\\pc\\documents\\proyectos .net\\tpi-steam\\domain\\model\\juego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28D3C244-00B9-4A8C-8803-66143A474A62}|Domain\\Domain.csproj|solutionrelative:domain\\model\\juego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D3C244-00B9-4A8C-8803-66143A474A62}|Domain\\Domain.csproj|c:\\users\\pc\\documents\\proyectos .net\\tpi-steam\\domain\\model\\plataforma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28D3C244-00B9-4A8C-8803-66143A474A62}|Domain\\Domain.csproj|solutionrelative:domain\\model\\plataforma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D3C244-00B9-4A8C-8803-66143A474A62}|Domain\\Domain.csproj|c:\\users\\pc\\documents\\proyectos .net\\tpi-steam\\domain\\model\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28D3C244-00B9-4A8C-8803-66143A474A62}|Domain\\Domain.csproj|solutionrelative:domain\\model\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B25D0D0B-EFEF-483B-8039-0D01EF2A107D}|WindowsForm\\WindowsForm.csproj|c:\\users\\pc\\documents\\proyectos .net\\tpi-steam\\windowsform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B25D0D0B-EFEF-483B-8039-0D01EF2A107D}|WindowsForm\\WindowsForm.csproj|solutionrelative:windowsform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D3C244-00B9-4A8C-8803-66143A474A62}|Domain\\Domain.csproj|c:\\users\\pc\\documents\\proyectos .net\\tpi-steam\\domain\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28D3C244-00B9-4A8C-8803-66143A474A62}|Domain\\Domain.csproj|solutionrelative:domain\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D3C244-00B9-4A8C-8803-66143A474A62}|Domain\\Domain.csproj|c:\\users\\pc\\documents\\proyectos .net\\tpi-steam\\domain\\services\\plataformaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28D3C244-00B9-4A8C-8803-66143A474A62}|Domain\\Domain.csproj|solutionrelative:domain\\services\\plataformaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D3C244-00B9-4A8C-8803-66143A474A62}|Domain\\Domain.csproj|c:\\users\\pc\\documents\\proyectos .net\\tpi-steam\\domain\\services\\juegoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28D3C244-00B9-4A8C-8803-66143A474A62}|Domain\\Domain.csproj|solutionrelative:domain\\services\\juegoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D3C244-00B9-4A8C-8803-66143A474A62}|Domain\\Domain.csproj|c:\\users\\pc\\documents\\proyectos .net\\tpi-steam\\domain\\steamcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28D3C244-00B9-4A8C-8803-66143A474A62}|Domain\\Domain.csproj|solutionrelative:domain\\steamcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D3C244-00B9-4A8C-8803-66143A474A62}|Domain\\Domain.csproj|c:\\users\\pc\\documents\\proyectos .net\\tpi-steam\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{28D3C244-00B9-4A8C-8803-66143A474A62}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\Proyectos .NET\\TPI-Steam\\WindowsForm\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsForm\\Form1.cs",
+              "ToolTip": "C:\\Users\\pc\\Documents\\Proyectos .NET\\TPI-Steam\\WindowsForm\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WindowsForm\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T23:14:57.641Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlataformaService.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\Proyectos .NET\\TPI-Steam\\Domain\\Services\\PlataformaService.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\PlataformaService.cs",
+              "ToolTip": "C:\\Users\\pc\\Documents\\Proyectos .NET\\TPI-Steam\\Domain\\Services\\PlataformaService.cs",
+              "RelativeToolTip": "Domain\\Services\\PlataformaService.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T22:46:52.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\Proyectos .NET\\TPI-Steam\\Domain\\Services\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\UsuarioService.cs",
+              "ToolTip": "C:\\Users\\pc\\Documents\\Proyectos .NET\\TPI-Steam\\Domain\\Services\\UsuarioService.cs",
+              "RelativeToolTip": "Domain\\Services\\UsuarioService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T22:46:36.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SteamContext.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\Proyectos .NET\\TPI-Steam\\Domain\\SteamContext.cs",
+              "RelativeDocumentMoniker": "Domain\\SteamContext.cs",
+              "ToolTip": "C:\\Users\\pc\\Documents\\Proyectos .NET\\TPI-Steam\\Domain\\SteamContext.cs",
+              "RelativeToolTip": "Domain\\SteamContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T22:24:27.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JuegoService.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\Proyectos .NET\\TPI-Steam\\Domain\\Services\\JuegoService.cs",
+              "RelativeDocumentMoniker": "Domain\\Services\\JuegoService.cs",
+              "ToolTip": "C:\\Users\\pc\\Documents\\Proyectos .NET\\TPI-Steam\\Domain\\Services\\JuegoService.cs",
+              "RelativeToolTip": "Domain\\Services\\JuegoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T22:21:46.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Domain",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\Proyectos .NET\\TPI-Steam\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "Domain\\Domain.csproj",
+              "ToolTip": "C:\\Users\\pc\\Documents\\Proyectos .NET\\TPI-Steam\\Domain\\Domain.csproj",
+              "RelativeToolTip": "Domain\\Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-09T22:21:25.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Plataforma.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\Proyectos .NET\\TPI-Steam\\Domain\\Model\\Plataforma.cs",
+              "RelativeDocumentMoniker": "Domain\\Model\\Plataforma.cs",
+              "ToolTip": "C:\\Users\\pc\\Documents\\Proyectos .NET\\TPI-Steam\\Domain\\Model\\Plataforma.cs",
+              "RelativeToolTip": "Domain\\Model\\Plataforma.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T22:18:59.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Juego.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\Proyectos .NET\\TPI-Steam\\Domain\\Model\\Juego.cs",
+              "RelativeDocumentMoniker": "Domain\\Model\\Juego.cs",
+              "ToolTip": "C:\\Users\\pc\\Documents\\Proyectos .NET\\TPI-Steam\\Domain\\Model\\Juego.cs",
+              "RelativeToolTip": "Domain\\Model\\Juego.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T22:07:39.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\Proyectos .NET\\TPI-Steam\\Domain\\Model\\Usuario.cs",
+              "RelativeDocumentMoniker": "Domain\\Model\\Usuario.cs",
+              "ToolTip": "C:\\Users\\pc\\Documents\\Proyectos .NET\\TPI-Steam\\Domain\\Model\\Usuario.cs",
+              "RelativeToolTip": "Domain\\Model\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T22:05:45.459Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
