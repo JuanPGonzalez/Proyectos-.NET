@@ -25,8 +25,8 @@ namespace Domain.Services
             {
                 return context.Juegos
                         .Include (x => x.Plataforma)
-                        .Include(x => x.Progresos)
-                        .Include(x => x.Reseñas)
+                        //.Include(x => x.Progresos)
+                        //.Include(x => x.Reseñas)
                         .FirstOrDefault(x => x.Id == id);
             }
         }
